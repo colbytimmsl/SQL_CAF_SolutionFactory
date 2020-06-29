@@ -12,7 +12,6 @@ The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project 
    
    This eBook contains the following documents:    
       01 - CAF Strategy Phase - SQL Migration  
-      01 - SQL Azure Total Cost Ownership Calculator (TCO)  
       02 - CAF Plan Phase for SQL Migration  
       03 - CAF Ready Phase for SQL Migration  
       04 - CAF Adopt Phase - Scenerio 1 - SQL Migration - On Prem to Azure VirtualMachine  
