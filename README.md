@@ -14,9 +14,9 @@ The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project 
       01 - CAF Strategy Phase - SQL Migration  
       02 - CAF Plan Phase for SQL Migration  
       03 - CAF Ready Phase for SQL Migration  
-      04 - CAF Adopt Phase - Scenerio 1 - SQL Migration - On Prem to Azure VirtualMachine  
-      04 - CAF Adopt Phase - Scenerio 2 - SQL Migration - On Prem to AzureSQL Database  
-      04 - CAF Adopt Phase - Scenerio 3 - SQL Migration - On Prem to Azure Managed Instance  
+      04 - CAF Adopt Phase - Scenario 1 - SQL Migration - On Prem to Azure VirtualMachine  
+      04 - CAF Adopt Phase - Scenario 2 - SQL Migration - On Prem to AzureSQL Database  
+      04 - CAF Adopt Phase - Scenario 3 - SQL Migration - On Prem to Azure Managed Instance  
       05 - CAF Governance Phase for SQL Migration  
       05.1 - CAF Governance Phase for SQL Migration - Security policies  
 
