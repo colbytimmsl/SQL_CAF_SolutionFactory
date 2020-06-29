@@ -2,7 +2,7 @@
 The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage Azure SQL in alignment to Cloud Adoption Framework (CAF). 
 
  The Azure Cloud Adoption Journey
- ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/CAF.png)
+ ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
 
 ## SQL CAF Solution Factory Contents
 
