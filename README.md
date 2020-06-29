@@ -8,8 +8,9 @@ The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project 
 
 * [eBook: SQL Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-   Detailed guidance about what one needs to do in each of the Cloud Adoption phases for SQL Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete SQL migration and management aligned to the Cloud Adoption Framework methodology.This eBook contains the following list of documents -  
+   Detailed guidance about what one needs to do in each of the Cloud Adoption phases for SQL Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete SQL migration and management aligned to the Cloud Adoption Framework methodology.
    
+   This eBook contains the following documents
       * 01 - CAF Strategy Phase - SQL Migration
       * 01 - B - SQL – Azure Total Cost Ownership Calculator (TCO)
       * 02 - CAF Plan Phase for SQL Migration
