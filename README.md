@@ -11,15 +11,15 @@ The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project 
    Detailed guidance about what one needs to do in each of the Cloud Adoption phases for SQL Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete SQL migration and management aligned to the Cloud Adoption Framework methodology.
    
    This eBook contains the following documents:    
-      * 01 - CAF Strategy Phase - SQL Migration  
-      * 01 - B - SQL – Azure Total Cost Ownership Calculator (TCO)  
-      * 02 - CAF Plan Phase for SQL Migration  
-      * 03 - CAF Ready Phase for SQL Migration  
-      * 04 - CAF Adopt Phase - Scenerio 1 - SQL Migration - On Prem to Azure VirtualMachine  
-      * 04 - CAF Adopt Phase - Scenerio 2 - SQL Migration - On Prem to AzureSQL Database  
-      * 04 - CAF Adopt Phase - Scenerio 3 - SQL Migration - On Prem to Azure Managed Instance  
-      * 05 - CAF Governance Phase for SQL Migration  
-      * 05.1 - CAF Governance Phase for SQL Migration - Security policies  
+      01 - CAF Strategy Phase - SQL Migration  
+      01 - SQL Azure Total Cost Ownership Calculator (TCO)  
+      02 - CAF Plan Phase for SQL Migration  
+      03 - CAF Ready Phase for SQL Migration  
+      04 - CAF Adopt Phase - Scenerio 1 - SQL Migration - On Prem to Azure VirtualMachine  
+      04 - CAF Adopt Phase - Scenerio 2 - SQL Migration - On Prem to AzureSQL Database  
+      04 - CAF Adopt Phase - Scenerio 3 - SQL Migration - On Prem to Azure Managed Instance  
+      05 - CAF Governance Phase for SQL Migration  
+      05.1 - CAF Governance Phase for SQL Migration - Security policies  
 
 
 *  [SQL CAF DevOps Project TaskList](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
