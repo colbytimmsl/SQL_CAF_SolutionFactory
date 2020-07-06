@@ -47,5 +47,6 @@ Additional Links
 ## Key Contributors
 Thanks to our contributors:  
 Microsoft Team: Farida Bharmal, Manish Dhall,  Abha R Panchal, Gennady Kostinsky, Puneet Jeyasingh 
+
 Reviewers: Brian Hitney, Rajesh Setlem, and Venkata Raj Pochiraju 
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the Solution Factory. 
