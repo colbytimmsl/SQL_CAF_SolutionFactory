@@ -42,6 +42,12 @@ The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project 
 Additional Links
  [Azure Cloud Adopiton Framework Documentation](https://azure.microsoft.com/en-us/cloud-adoption-framework)
 
+ [Cloud Adoption Framework for Azure Partners](https://www.microsoft.com/azure/partners/adopt?filters=all)
+
+ [Smart Program - Strategic Migration Assessment and Readiness Tool](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&session=local)
+
+ [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit)
+
  [Helpful Resources](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
 
 ## Key Contributors
