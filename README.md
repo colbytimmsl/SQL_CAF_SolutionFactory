@@ -39,10 +39,8 @@ The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project 
    One common question that we get is what are the security considerations for SQL Migartion. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
 
 
-Additional Links
-
-
- [Azure Cloud Adopiton Framework Documentation](https://azure.microsoft.com/en-us/cloud-adoption-framework)
+## Additional Links
+ [Azure Cloud Adoption Framework](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
 
  [Cloud Adoption Framework for Azure Partners](https://www.microsoft.com/azure/partners/adopt?filters=all)
 
@@ -50,7 +48,11 @@ Additional Links
 
  [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) - The Data Access Migration Toolkit provides tools to help migrate application source code from one database platform to another. Current supported source database backends – Oracle Database, SQL Server
 
- [Helpful Resources](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
+## Migration Funding Programs
+ [Azure Migration Program Funding](https://azure.microsoft.com/en-us/migration/migration-program) 
+
+ [Microsoft FastTrack for Azure](https://azure.microsoft.com/en-us/programs/azure-fasttrack)
+
 
 ## Key Contributors
 Thanks to our contributors:  
