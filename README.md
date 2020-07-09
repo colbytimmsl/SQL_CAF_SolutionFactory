@@ -44,9 +44,9 @@ The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project 
 
  [Savings with SQL on Azure](https://azure.microsoft.com/en-us/overview/azure-vs-aws/) 
 
- [Smart Program - Strategic Migration Assessment and Readiness Tool](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&session=local) - Preparing for a scale migration is critical to ensure your project is executed smoothly and that you realize intended benefits -10 mins 
+ [Smart Program - Strategic Migration Assessment and Readiness Tool](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&session=local) 
 
- [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) - The Data Access Migration Toolkit provides tools to help migrate application source code from one database platform to another. Current supported source database backends – Oracle Database, SQL Server
+ [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) 
 
  [Azure Cloud Adoption Framework](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
 
@@ -61,6 +61,6 @@ The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project 
 
 ## Key Contributors
 Thanks to our contributors:  
-Microsoft Team: Manish Dhall,  Abha R Panchal, Gennady Kostinsky, Puneet Jeyasingh, Farida Bharmal 
-Reviewers: Brian Hitney, Rajesh Setlem, and Venkata Raj Pochiraju 
-We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the Solution Factory. 
+Microsoft Team: Manish Dhall,  Abha R Panchal, Gennady Kostinsky, Puneet Jeyasingh, Farida Bharmal   
+Reviewers: Brian Hitney, Rajesh Setlem, and Venkata Raj Pochiraju   
+We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the Solution Factory   
